@@ -1,0 +1,20 @@
+{
+  "name": "genpark-two-phase-commit-2pc-coordinator-skill",
+  "version": "1.0.0",
+  "description": "Two-Phase Commit (2PC) distributed atomic transaction coordinator with failure rollback",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "two-phase-commit",
+    "2pc",
+    "distributed-consensus",
+    "atomic-commit",
+    "transaction-coordinator",
+    "python-standard-library",
+    "agent-skills",
+    "distributed-systems",
+    "fault-tolerance",
+    "database-systems"
+  ]
+}
