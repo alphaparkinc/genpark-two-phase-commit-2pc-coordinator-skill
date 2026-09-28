@@ -1,0 +1,6 @@
+name: genpark-two-phase-commit-2pc-coordinator-skill
+version: 1.0.0
+description: Two-Phase Commit (2PC) distributed atomic transaction coordinator with failure rollback
+command: python
+args:
+  - mcp_server.py
