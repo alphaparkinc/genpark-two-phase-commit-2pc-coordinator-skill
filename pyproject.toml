@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-two-phase-commit-2pc-coordinator-skill"
+version = "1.0.0"
+description = "Two-Phase Commit (2PC) distributed atomic transaction coordinator with failure rollback"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
